@@ -1,0 +1,7 @@
+Please keep the excel files in the same folder to run the code without error.
+
+WMT - Walmart
+AAPL - Apple
+AMZN - Amazon
+BRK - Berkshire
+XOM - Exxon Mobil
